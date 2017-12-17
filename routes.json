@@ -1,0 +1,9 @@
+{
+    "home": {"controller": "HomeController", "action": "home"},
+    "login": {"controller": "HomeController", "action": "login"},
+    "logout": {"controller": "HomeController", "action": "logout"},
+    "register": {"controller": "HomeController", "action": "register"},
+    "sql": "DatabaseExampleController",
+    "numbers": "NumberAppController",
+    "self": "PHPCodeSnippetController"
+}

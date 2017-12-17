@@ -1,0 +1,7 @@
+.active {
+    color: red!important;
+}
+
+.card-body.text-success {
+	min-height: 150px;
+}
