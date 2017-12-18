@@ -6,13 +6,13 @@
     <base href="<?=BASE_HREF?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link rel="stylesheet" href="assets/css/vendor/bootstrap.css" media="screen">
+    <link rel="stylesheet" href="assets/css/vendors/bootstrap.css" media="screen">
     <link rel="stylesheet" href="assets/css/main.css">
 
-    <script src="assets/js/vendor/jquery.min.js"></script>
-    <script src="assets/js/vendor/popper.min.js"></script>
-    <script src="assets/js/vendor/bootstrap.min.js"></script>
-    <script src="assets/js/vendor/vue.min.js"></script>
+    <script src="assets/js/vendors/jquery.min.js"></script>
+    <script src="assets/js/vendors/popper.min.js"></script>
+    <script src="assets/js/vendors/bootstrap.min.js"></script>
+    <script src="assets/js/vendors/vue.min.js"></script>
     <script>
       $(
         function() {
